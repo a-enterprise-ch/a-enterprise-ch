@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developers
 - 📫 Stay tuned you reach me XPBSDU8Y
 - 😄 RED (Retired Extremely Dangerous)
-- ⚡ you can't stop the waves, but you can surf the waves
+- ⚡ you can't stop the waves, but you can learn to surf
 
 <!---
 a-enterprise-ch/a-enterprise-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
