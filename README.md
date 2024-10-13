@@ -1,9 +1,9 @@
-- 👋 I’m @a-enterprise-ch
-- 👀 I’m interested in open source
-- 🌱 I’m already a workaholic
-- 💞️ I’m looking to collaborate on developers
+- 👋 We @a-enterprise-ch
+- 👀 We interested in open source
+- 🌱 We already workaholics
+- 💞️ We looking to collaborate on developers
 - 📫 Stay tuned you reach me XPBSDU8Y
-- 😄 RED (Retired Extremely Dangerous)
+- 😄 Rinspired by engineering
 - ⚡ you can't stop the waves, but you can learn to surf
 
 <!---
