@@ -3,7 +3,7 @@
 - 🌱 We already workaholics
 - 💞️ We looking to collaborate on developers
 - 📫 Stay tuned you reach me XPBSDU8Y
-- 😄 Rinspired by engineering
+- 😄 inspired by engineering
 - ⚡ you can't stop the waves, but you can learn to surf
 
 <!---
