@@ -3,8 +3,7 @@
 - 🌱 We already workaholics
 - 💞️ We looking to collaborate on developers
 - 📫 Stay tuned you reach me XPBSDU8Y
-- 😄 inspired by engineering
-- ⚡ you can't stop the waves, but you can learn to surf
+- 😄 We are inspired by engineering
 
 <!---
 a-enterprise-ch/a-enterprise-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
